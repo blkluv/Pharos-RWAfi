@@ -2,7 +2,7 @@
   "dependencies": {
     "axios": "^1.11.0",
     "ethers": "^6.15.0",
-    "ethersjs3-wallet": "^3.0.10",
+    "ethersjs3-wallet": "^3.0.11",
     "p-limit": "^6.2.0"
   }
 }
